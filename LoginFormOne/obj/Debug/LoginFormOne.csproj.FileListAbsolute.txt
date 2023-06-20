@@ -1,0 +1,12 @@
+C:\Users\IJAS\source\repos\LoginFormOne\bin\Debug\LoginFormOne.exe.config
+C:\Users\IJAS\source\repos\LoginFormOne\bin\Debug\LoginFormOne.exe
+C:\Users\IJAS\source\repos\LoginFormOne\bin\Debug\LoginFormOne.pdb
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.csproj.AssemblyReference.cache
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.Form1.resources
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.Main.resources
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.Properties.Resources.resources
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.csproj.GenerateResource.cache
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.csproj.CoreCompileInputs.cache
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.exe
+C:\Users\IJAS\source\repos\LoginFormOne\obj\Debug\LoginFormOne.pdb
